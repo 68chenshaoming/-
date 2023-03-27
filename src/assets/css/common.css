@@ -1,0 +1,41 @@
+html,
+body,
+#app {
+	height: 100vh;
+	min-width: 1366px;
+}
+.el-breadcrumb {
+	margin-bottom: 15px;
+	font-size: 12px !important;
+}
+
+.el-card {
+	box-shadow: 0 1 px 1px rgba(0, 0, 0, 0.15) !important;
+}
+
+.el-table {
+	margin-top: 15px;
+	font-size: 12px !important;
+}
+
+.el-pagination {
+	margin-top: 15px;
+}
+.el-steps {
+	margin-top: 15px;
+}
+
+.el-step__title {
+	font-size: 13px !important;
+}
+
+.el-editor {
+	min-height: 300px;
+}
+
+.el-col {
+	text-align: left;
+}
+.ql-editor {
+	min-height: 300px;
+}
